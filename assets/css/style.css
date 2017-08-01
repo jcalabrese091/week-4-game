@@ -1,0 +1,51 @@
+img{
+	width: 75px;
+	height: 75px;
+}
+body{
+	text-align: center;
+}
+#userNum{
+	border: black;
+    border-style: solid;
+    width: 430px;
+    margin-left: 320px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+#number{
+	border: black;
+	border-style: solid;
+	width:430px;
+	margin-left: 320px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+#description{
+	border: black;
+	border-style: solid;
+	width: 300px;
+	margin-left: 385px;
+}
+#playerScore{
+	width: 200px;
+	border-style: solid;
+	border:black;
+}
+#wins{
+	font-size: 20px;
+}
+#losses{
+	font-size: 20px;
+}
+.image{
+	background-image: url("../images/gemback.jpg");
+	padding: 40px;
+	background-size: contain;
+}
+/*.container {
+  width: auto;
+  margin: 0 auto;
+  clear: both;
+}*/
